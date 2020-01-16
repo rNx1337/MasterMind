@@ -1,0 +1,31 @@
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\bin\Debug\Verificar.exe
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\bin\Debug\Verificar.pdb
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\bin\Debug\Verificar.xml
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.Resources.resources
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.vbproj.GenerateResource.Cache
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.exe
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.xml
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.pdb
+\\data-escola\11s\PSI\ALUNOS\Eduardo Figueiredo\Vitor Gomes\Verificar\Verificar\obj\x86\Debug\Verificar.form1.resources
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\bin\Debug\Verificar.exe
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\bin\Debug\Verificar.pdb
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\bin\Debug\Verificar.xml
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.vbprojAssemblyReference.cache
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.form1.resources
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.Resources.resources
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.vbproj.GenerateResource.cache
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.vbproj.CoreCompileInputs.cache
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.exe
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.xml
+E:\PSI\Eduardo Figueiredo\Verificar\Verificar\obj\x86\Debug\Verificar.pdb
+C:\Users\User\Desktop\Verificar\Verificar\bin\Debug\Verificar.exe
+C:\Users\User\Desktop\Verificar\Verificar\bin\Debug\Verificar.pdb
+C:\Users\User\Desktop\Verificar\Verificar\bin\Debug\Verificar.xml
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.form1.resources
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.Resources.resources
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.exe
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.xml
+C:\Users\User\Desktop\Verificar\Verificar\obj\x86\Debug\Verificar.pdb
