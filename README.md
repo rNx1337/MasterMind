@@ -1,4 +1,4 @@
-[![downloads](https://github.com/rNx1337/MasterMind/releases/download/1.0/MasterMind-relesase.zip)](https://github.com/rNx133)
+[![downloads][(https://github.com/rNx1337/MasterMind/releases/download/1.0/MasterMind-relesase.zip)](https://github.com/rNx133)
 
 ### Download 
 * https://github.com/rNx1337/MasterMind/releases/
