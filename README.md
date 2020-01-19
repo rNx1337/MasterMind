@@ -1,3 +1,6 @@
+[![downloads](https://img.shields.io/github/downloads/rNx1337/MasterMind/total.svg)](https://github.com/rNx1337/MasterMind)
+
+
 ### Download 
 * https://github.com/rNx1337/MasterMind/releases/
 
